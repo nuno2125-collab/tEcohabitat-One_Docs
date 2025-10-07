@@ -127,7 +127,7 @@ tEcoHabitat-One will integrate advanced technologies in automation, renewable en
   * See discussions  
 
 ### 3.9 Climatization  
-- **Requirements:**  
+- **Requirements:**
   - Appropriate temperature for the different habitat areas: greenhouse, social, and private spaces  
   - Air quality in all spaces  
   - Sensors across the entire habitat to monitor air quality and temperature  
@@ -137,19 +137,22 @@ tEcoHabitat-One will integrate advanced technologies in automation, renewable en
     - Earth Air Tunnel System to regulate temperature  
     - Prefer passive systems over mechanical ventilation to maintain air temperature and quality  
 - **Open Issues regarding Requirements and Solutions:**  
-  * See discussions  
-
-### 3.10 Miscellaneous Topics  
-- **Requirements:**  
-  - The building must have minimal impact on the installation area  
-  - Must be resilient to hurricanes and earthquakes  
-  - Must be installed in a safe area to prevent floods, earthquakes, tsunamis, etc.  
+  * See discussions
+ 
+### 3.10 Physical security
+- **Requirements:**
+  - Minimize tripping and falling hazards
+  - Minimize weather-related accidents
+  - Minimize geologically-related accidents
 - **Solutions:**  
   * Option A  
-    - Structure on posts so wildlife moves freely below and land displacement is minimized  
+    - Eliminate stairs and other potential falling hazards
+    - Strategically locate the habitat in areas less prone to natural disasters such as floods, volcanic activity, and tsunamis
+    - Construct infrastructure to be highly resilient to earthquakes and tornadoes
 - **Open Issues regarding Requirements and Solutions:**  
-  * See discussions  
-//////
+  * See discussions
+
+### 3.11 Miscellaneous Topics  
 - **Requirements:**  
   - Design must be modular to save resources in production, installation, and maintenance  
 - **Solutions:**  
