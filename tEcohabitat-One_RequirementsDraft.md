@@ -82,7 +82,7 @@ tEcoHabitat-One will integrate advanced technologies in automation, renewable en
 - **Requirement:** Must ensure **100% vegetarian, diverse, healthy diet**.  
 - **Open Issues:** See discussions
 
-### 3.9 Other Architectural Aspects
+### 3.9 Miscellaneous Topics
 - **Structure on posts**: wildlife moves freely below.  
 - **Minimal land footprint.**   
 - **Safety:** Redundant systems for energy, water, air
