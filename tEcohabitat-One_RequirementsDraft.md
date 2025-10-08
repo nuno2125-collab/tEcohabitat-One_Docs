@@ -1,4 +1,4 @@
-# Requirements Specification Document  
+# Requirements Specification Document
 **Project:** tEcoHabitat-One  
 **Version:** 1.0  
 
